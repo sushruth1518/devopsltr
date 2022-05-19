@@ -3,3 +3,4 @@ tersr
 command line push
 fg
 hy
+sym
