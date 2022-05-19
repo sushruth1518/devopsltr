@@ -1,2 +1,3 @@
 this is first repo 
 tersr
+command line push
